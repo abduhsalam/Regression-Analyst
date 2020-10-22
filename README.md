@@ -1,4 +1,4 @@
-# Digital Telent Incubator
+# Digital Talent Incubator
 Materi Digital Talent Incubator - Telkom University
 
 Multi Regression pie sales analysis
@@ -10,4 +10,4 @@ Kesimpulan
 - semakin tinggi nilai periklanan semakin tinggi nilai penjualan
 - model yang di bangun tidak baik untuk memprediksi
 
-
+DTI assignment ada di file Multi_Regression.ipynb
